@@ -7,7 +7,7 @@ Learning Frontend Developer
 I've been learning to code for 2 years: started with Python, but soon realised that I'm passionate about websites and frontend development, so I moved to HTML/CSS courses, videos and practicing. Since I love programming, spicing things up with JavaScript was absolutely necessary)
 
 * 🌍  I'm based in Moscow
-* 🧠  I'm learning JavaScript, React
+* 🧠  I'm learning React, TypeScript
 * ⚡  Interested in GSAP and animations
 
 ### Skills
